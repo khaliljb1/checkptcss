@@ -1,0 +1,25 @@
+/*style khalil.html */
+nav{
+    display: flex;
+}
+ul{
+    display:inline-flex;
+}
+li{
+    margin: 20px;
+}
+a{
+    list-style-type: none ;
+}
+body{
+    font-family: "roboto";
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+color: #00bf72;
+}
+.video{
+    width:1000px ;
+    height:1000px
+}
+main{
+    text-align: center;
+}
